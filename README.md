@@ -10,404 +10,258 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 EJERCICIOS CAPÍTULO 5 
 
-1)	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+5-1 Circuitos en serie
 
-   <img src="cap5/1.JPG" width=400 >
-    
-a.	V=IxR
-    
-V= 3Ax10Ω
-    
-V= 30v
-    
-b.	V=IxR
-    
-V=-6Ax15Ω
-    
-V= -90v
-       
-2)	Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
- <img src="cap5/2.JPG" width=400 >
- 
-a.	V=IxR
+![image](https://user-images.githubusercontent.com/85126275/122826654-03ccee00-d2a9-11eb-8858-6e92b90f2f2a.png)
 
-V= -2Ax36Ω
+2.  Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos. 
 
-V= - 72 v
+![image](https://user-images.githubusercontent.com/85126275/122826757-23641680-d2a9-11eb-95b6-f804b2de67f1.png)
+![image](https://user-images.githubusercontent.com/85126275/122826776-2959f780-d2a9-11eb-833a-8f21fa5831c5.png)
 
-b.	V=IxR
+3.  Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.
 
-V= 4Ax40Ω
+![image](https://user-images.githubusercontent.com/85126275/122827119-99687d80-d2a9-11eb-92b6-d4e1431c13ce.png)
 
-V=160 v
+4.  El amperímetro de la figura 5-47 tiene autopolaridad. Determine sus lecturas,de la magnitud y el signo correctos.
 
-3)	Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.
+![image](https://user-images.githubusercontent.com/85126275/122827347-d765a180-d2a9-11eb-9e46-66ba6979b228.png)
 
- <img src="cap5/3.JPG" width=400 >
+5-2 Ley de voltaje de Kirchhoff
 
-a.	V=IxR
+5.	Determine los voltajes desconocidos en las redes de la figura 5-48.
 
-V=3Ax15Ω
+![image](https://user-images.githubusercontent.com/85126275/122827446-f95f2400-d2a9-11eb-9257-9e3b7e02ac07.png)
+![image](https://user-images.githubusercontent.com/85126275/122827462-fd8b4180-d2a9-11eb-878b-85c62053a762.png)
 
-V=45v
+6.	Determine los voltajes desconocidos en las redes de la figura 5-49.
 
-b.	V=IxR
+![image](https://user-images.githubusercontent.com/85126275/122827962-adf94580-d2aa-11eb-8f60-72accb788bab.png)
 
-V= -4Ax15Ω
+7.	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
-V=-60v
-
-c.	V=IxR
-
-V= 6Ax15Ω
-
-V=90v
-
-d.	V=IxR
-
-V= -7Ax15Ω
-
-V= -105 v
-
-4)	El amperímetro de la figura 5-47 tiene autopolaridad. Determine sus lecturas,de la magnitud y el signo correctos.
-
- <img src="cap5/4.JPG" width=400 >
- 
- 5-2 Ley de voltaje de Kirchhoff
- 
-5)	Determine los voltajes desconocidos en las redes de la figura 5-48.
-
- <img src="cap5/5.JPG" width=400 >
-
-6)	Determine los voltajes desconocidos en las redes de la figura 5-49.
-
- <img src="cap5/6.JPG" width=400 >
- 
- a.	V2= IxR 
- 
-V2=2A*2Ω
-
-V2= 4V
-
-16V-2V-V1-4V=0
-
-16V-6V=V1
-
-V1=10V
-
-V3=2V+10V+4V=16V
-
-V3=16V=16V
-
-V3=16V
-
-b.	-V2-6V-2V=0
-
-V2=4V 
-
-V1= 40w/4A
-
-V1=10V
-
-V3-10V+4V=0
-
-V3=6V
-
-
-7)	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
-
- <img src="cap5/7.JPG" width=400 >
-
-V3= 36w/3A
-
-V3=12V
-
-24V-10V-12V-V2=0
-
-24V-22V=V2
-
-V2=2V
-
-8)	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-51.
-
+![image](https://user-images.githubusercontent.com/85126275/122828290-15af9080-d2ab-11eb-898b-033eb05bfa96.png)
 
 5-3  Resistores en serie
 
-<img src="cap5/8.JPG" width=400 >
+8.  Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-51.
 
-V3=1.5 kΩ x40 mA =60V
+![image](https://user-images.githubusercontent.com/85126275/122828338-26600680-d2ab-11eb-846d-ef545fbf84eb.png)
 
-100V-60V-30V-V1=0
+9.	Determine la resistencia total de las redes que se muestran en la figura 5-52. 
 
-V1=10V
+![image](https://user-images.githubusercontent.com/85126275/122828560-75a63700-d2ab-11eb-9380-0978eed136e4.png)
 
+![image](https://user-images.githubusercontent.com/85126275/122828928-e64d5380-d2ab-11eb-9a55-f923648337fd.png)
 
-9)	Determine la resistencia total de las redes que se muestran en la figura 5-52.
+10.	Determine las resistencias desconocidas en cada una de las redes que se muestran en la figura 5-53.
 
-<img src="cap5/9.JPG" width=400 >
+![image](https://user-images.githubusercontent.com/85126275/122828978-f9f8ba00-d2ab-11eb-9b87-9417cf869d6a.png)
 
-10)	Determine las resistencias desconocidas en cada una de las redes que se muestran en la figura 5-53.
+11.	Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
 
-<img src="cap5/10.JPG" width=400 >
+![image](https://user-images.githubusercontent.com/85126275/122829150-3c21fb80-d2ac-11eb-9582-f4df93f9066b.png)
 
+![image](https://user-images.githubusercontent.com/85126275/122829174-48a65400-d2ac-11eb-841f-526a3c01f3ed.png)
 
-a.	Rt = 10Ω+22Ω+47Ω+15Ω
+12.	Para los circuitos de la figura 5-55 tienen resistencia total, RT, como se muestra. Para cada circuito encuentre lo siguiente:
 
-Rt = 95Ω
+![image](https://user-images.githubusercontent.com/85126275/122829402-928f3a00-d2ac-11eb-818d-78605c33a847.png)
 
-b.	Rt = 12000Ω+12000Ω+12000Ω
+  a.	La magnitud de la corriente en el circuito.
 
-Rt = 36kΩ
+  ![image](https://user-images.githubusercontent.com/85126275/122829537-c0747e80-d2ac-11eb-9553-cf5895ed51d1.png)
 
-c.	Rt = 2R2+R2+6R2
+  b.	El total de potencia suministrada por la fuente de voltaje.
 
-36Ω=9R2
+  ![image](https://user-images.githubusercontent.com/85126275/122829573-ca967d00-d2ac-11eb-97c7-c951468921ef.png)
 
-R2= 4Ω
+  d.	El valor de la resistencia desconocida, R.
 
-R1=2R2
+  ![image](https://user-images.githubusercontent.com/85126275/122829681-eb5ed280-d2ac-11eb-889f-d6cb7ff69d4d.png)
 
-R1=2x(4Ω)
+  e.	La caída de voltaje en cada resistor.
 
-R1=8Ω
+  ![image](https://user-images.githubusercontent.com/85126275/122829740-003b6600-d2ad-11eb-8d63-03ed86daed65.png)
 
-R3= 3R1
+  f.	La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.
 
-R3=6R2
+  ![image](https://user-images.githubusercontent.com/85126275/122829774-0c272800-d2ad-11eb-99ff-0432eac02704.png)
 
-R3=6x(4Ω)
+13.	Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
 
-R3= 24Ω
+![image](https://user-images.githubusercontent.com/85126275/122829827-19441700-d2ad-11eb-9d0a-3a63057a063f.png)
 
-11)	Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
+  a.	La corriente del circuito.
 
-<img src="cap5/11.JPG" width=400 >
+  ![image](https://user-images.githubusercontent.com/85126275/122829993-54464a80-d2ad-11eb-8725-b3121dff5346.png)
 
-12)	Para los circuitos de la figura 5-55 tienen resistencia total, RT, como se muestra. Para cada circuito encuentre lo siguiente:
+  b.	La resistencia total.
 
-<img src="cap5/12.JPG" width=400 >
+  ![image](https://user-images.githubusercontent.com/85126275/122830270-bb63ff00-d2ad-11eb-95be-8322a21501aa.png)
 
-a.	La magnitud de la corriente en el circuito.
+  c.	El valor de la resistencia desconocida, R.
 
-I = E/R
+  ![image](https://user-images.githubusercontent.com/85126275/122830380-e0587200-d2ad-11eb-9fc9-5df3376fec27.png)
 
-I = 90/12
+  d.	La caída de voltaje en todos los resistores en el circuito.
 
-I = 7.5V    
+  ![image](https://user-images.githubusercontent.com/85126275/122830476-febe6d80-d2ad-11eb-86e6-6a76f4a8f896.png)
 
-b.	El total de potencia suministrada por la fuente de voltaje.
+  e.	La potencia disipada por todos los resistores.
 
-Pt = E*I
+  ![image](https://user-images.githubusercontent.com/85126275/122830539-172e8800-d2ae-11eb-9b83-501ef63d6e46.png)
 
-Pt = 90*7.5
+14.	El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:
 
-Pt = 675w
+![image](https://user-images.githubusercontent.com/85126275/122830614-34635680-d2ae-11eb-8c37-ac7fa92613b3.png)
 
-c.	La dirección de la corriente a través de cada resistor en el circuito.
+  a.	La resistencia total en el circuito.
 
-La resistencia se daría en sentido horario.
+  ![image](https://user-images.githubusercontent.com/85126275/122830661-447b3600-d2ae-11eb-99b9-1c0f0083ab28.png)
 
-d.	El valor de la resistencia desconocida, R.
+  b.	El valor de la resistencia desconocida, R2.
 
-Rt = R1+R2+R3+R4
+  ![image](https://user-images.githubusercontent.com/85126275/122830693-52c95200-d2ae-11eb-8d47-90991451b0c8.png)
 
-R4 = Rt-R1-R2-R3
+  c.	La caída de voltaje en cada resistor en el circuito.
 
-R4 = 12kΩ-1kΩ-4kΩ-3kΩ
+  ![image](https://user-images.githubusercontent.com/85126275/122830737-6379c800-d2ae-11eb-96f3-da31b4a7a1cb.png)
 
-R4 = 4kΩ
+  d.	La potencia disipada por cada uno de los resistores.
 
-e.	La caída de voltaje en cada resistor.
+  ![image](https://user-images.githubusercontent.com/85126275/122830795-74c2d480-d2ae-11eb-9aef-ae48a94b676b.png)
 
-V1 = 7.5*1 = 7.5V
+15.	Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
 
-V2 = 7.5*4 = 30V
+![image](https://user-images.githubusercontent.com/85126275/122830831-85734a80-d2ae-11eb-8605-1c4412970f4b.png)
 
-V3 = 7.5*3 = 22.5V
+  a.	La corriente, I.
 
-V4 = 7.5*4 = 30V
+  ![image](https://user-images.githubusercontent.com/85126275/122830890-a340af80-d2ae-11eb-8ebf-f97712081fd7.png)
 
-f.	La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.
+  b.	La caída de voltaje en cada resistor en el circuito.
 
-P1 = (7.5)^2 * (1kΩ) = 56.25w
+  ![image](https://user-images.githubusercontent.com/85126275/122830925-b0f63500-d2ae-11eb-890a-bf308d4cc643.png)
 
-P2 = (7.5)^2 * (4kΩ) = 225w
+  c.	El voltaje en las terminales abiertas a y b.
 
-P3 = (7.5)^2 * (3kΩ) = 168.75w
+  ![image](https://user-images.githubusercontent.com/85126275/122830948-c0757e00-d2ae-11eb-93d6-e1211bb46dd8.png)
 
-P4 = (7.5)^2 * (4kΩ) = 225w
+16.	Vea el circuito de la figura 5-59:
 
-Pt = 56.25w+225+168.75+225w
+![image](https://user-images.githubusercontent.com/85126275/122831009-d71bd500-d2ae-11eb-9db9-03eabe70513c.png)
 
-Pt = 675w
+  a.	Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.
 
-13)	Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
+  ![image](https://user-images.githubusercontent.com/85126275/122831074-f581d080-d2ae-11eb-926e-2338a5c92572.png)
 
-<img src="cap5/13.JPG" width=400 >
+  b.	Determine la magnitud de la corriente, I.
 
-<img src="cap5/13.1.JPG" width=400 >
+  I = 0.02 A = 20 mA
 
-<img src="cap5/13.2.JPG" width=400 >
+  c.	Encuentre la resistencia desconocida, R1.
 
-14)	El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:
+  ![image](https://user-images.githubusercontent.com/85126275/122831175-1a764380-d2af-11eb-9f03-8283df398d62.png)
 
-<img src="cap5/14.JPG" width=400 >
+17.	Repita el problema 16 para el circuito de la figura 5-60.
 
-La resistencia total en el circuito.
+![image](https://user-images.githubusercontent.com/85126275/122831215-29f58c80-d2af-11eb-81cd-09c6e7fb7064.png)
 
-RT=E/I
+  a.	Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.
 
-RT=45V/2.5mA
+  ![image](https://user-images.githubusercontent.com/85126275/122831245-37ab1200-d2af-11eb-96f3-bfbed0d23c80.png)
 
-RT=18 kΩ
+  b.	Determine la magnitud de la corriente, I.
 
-El valor de la resistencia desconocida, R2.
+  I = 1.02409 mA
 
-RT=R1+R2+R3
+  c.	Encuentre la resistencia desconocida, R1.
 
-18 kΩ=3.3kΩ+R2+5.6kΩ
+  ![image](https://user-images.githubusercontent.com/85126275/122831384-70e38200-d2af-11eb-96b2-f26a2c09f4c6.png)
 
-R2=18-8.9
+18.	Vea el circuito de la figura 5-61:
 
-R2=9.1Ω
-
-La caída de voltaje en cada resistor en el circuito.
-
-VR1=2.5mA x 3.3kΩ
-
-VR1=8.25V
-
-VR2=2.5mA x 9.1kΩ
-
-VR2=22.75V
-
-VR3=2.5mA x 5.6kΩ
-
-VR3=14V
-
-La potencia disipada por cada uno de los resistores.
-
-PR1=(2.5mA)2 x 3.3kΩ
-
-PR1= 20.625mW
-
-PR2=(2.5mA)2 x 9.1kΩ
-
-PR2= 56.875mW
-
-PR3=(2.5mA)2 x 5.6kΩ
-
-PR3=35mW
-
-15)	Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
-
-<img src="cap5/15.JPG" width=400 >
-
-16)	Vea el circuito de la figura 5-59:
-
-<img src="cap5/16.JPG" width=400 >
-
-<img src="cap5/16.1.JPG" width=400 >
-
-17)	Repita el problema 16 para el circuito de la figura 5-60.
-
-<img src="cap5/17.JPG" width=400 >
-
-a.	Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.
-
-∑V=0
-
-16V-7.5V-(Ix4.7kΩ)-(Ix3.6kΩ)
-
-8.5V-8.3kI=0
-
-I= -8.5/-8.3
-
-I=1.02409mA
-
-VR2=IxR
-
-VR2=1.02409mAx4.7kΩ
-
-VR2=4.81325v
-
-VR3=IxR
-
-VR3=1.02409mAx3.6kΩ
-
-VR3=3.68675v
-
-b.	Determine la magnitud de la corriente, I.
-
-I=1.02409mA
-
-c.	Encuentre la resistencia desconocida, R1.
-
-R1= VR1/I
-  
-R1= 7.5V/1.02409mA
-
-R1= 7.32352kΩ
-  
-18)	Vea el circuito de la figura 5-61:
-
-<img src="cap5/18.JPG" width=400 >
+![image](https://user-images.githubusercontent.com/85126275/122831446-848ee880-d2af-11eb-85a9-967209acf7b1.png)
 
 a.	Encuentre RT.
 
-Rt = 1.8kΩ+3.3kΩ+10kΩ+8.2kΩ
-
-Rt = 23.3
+![image](https://user-images.githubusercontent.com/85126275/122831594-b30cc380-d2af-11eb-9807-8aced88e6e6d.png)
 
 b.	Resuelva para hallar la corriente, I.
 
-I = 180/23.3
 
-I = 7.73V
 
-c.	Determine la caída de voltaje en cada resistor.
+EJERCICIOS CAPÍTULO 6
 
-V1 = 7.73*1.8 = 13.91
+6-5 Regla del divisor de corriente
 
-V2 = 7.73*3.3 = 25.50
-
-V3 = 7.73*10 = 77.3
-
-V4 = 7.73*8.2 = 63.386
-
-d.	Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
-
-∑V=0
-
-180V-13.91V-25.5V-77.3V-63.386V=0
-
-0=0
-e.	Encuentre la potencia disipada por cada resistor.
-
-P1 = (7.73)^2*1.8= 107.55mw
-
-P2 = (7.73)^2*3.3= 197.18mw 
-
-P3 = (7.73)^2*10= 597.52mw 
-
-P4 = (7.73)^2*8.2= 489.97mw 
-
-f.	Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.
-
-Pt = 180*7.73= 1391.4mW
-
-CAPITULO 6
+29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
 
 
 
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
+
+
+33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
+
+35. Vea el circuito de la figura 6-77: 
+a. Determine la resistencia equivalente RT, del circuito. 
+b. Encuentre la corriente I. 
+c. Use la regla del divisor de corriente para determinar la corriente en cada resistor. 
+d. Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+
+37. Vea el circuito de la figura 6-79. 
+a. Encuentre la resistencia total RT y la corriente a través de la fuente de voltaje. 
+b. Encuentre todas las corrientes desconocidas en el circuito. 
+c. Verifique la ley de corriente de Kirchhoff en el nodo a. 
+d. Determine la potencia disipada por cada resistor. Verifique que la potencia total disipada por los resistores es igual a la potencia suministrada por la fuente de voltaje.
+
+
+
+39. Vea el circuito de la figura 6-81: 
+a. Calcule la corriente a través de cada resistor en el circuito. 
+b. Determine la corriente total suministrada por la fuente de voltaje. 
+c. Encuentre la potencia disipada por cada resistor.
+
+
+
+41. En el circuito de la figura 6-83
+a.	Determine los valores de todos los resistores.
+b.	Calcule las corrientes a través de R1, R2 y R4.
+c.	Encuentre las corrientes I1 e I2.
+d.	Encuentre la potencia disipada por los resistores R2, R3 y R4.
+
+
+
+
+43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
+
+
+
+6.7 Efectos de carga en el voltímetro
+45. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje que se indica en el circuito de la figura 6-86. 
+a. Determine la lectura de voltaje que indicará el medidor. 
+b. Calcule el efecto.
 
 
 
 
 
+47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab 1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 kΩ?
 
 
+
+6-8 Análisis por computadora
+49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79
+
+
+
+
+51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1 M, como se muestra en la figura 6-86.
 
 
 
