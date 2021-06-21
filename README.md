@@ -718,7 +718,7 @@ b. Calcule el efecto.
 
 ## 5. CONCLUSIONES 
 
-Como conclusion podemos decir que un circuito en serie se denota por matener su intensidad de corriente constante, por su variacion de voltaje y finalmente las resistencias totales siempre serán las mismas que conforman el circuito.
+Como conclusión podemos decir que un circuito en serie se denota por matener su intensidad de corriente constante, por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que conforman el circuito.
 
 En este informe pudimos aplicar lo que es la ley de Ohm que básicamente es de ahí de donde se derivan las demas fórmulas como lo es el divisor de corriente, estas son muy importantes para encontrar valores desconocidos como por ejemplo calcular los voltajes, corrientes o intensidades de los ciruitos ya sean en serie o paralelos.
 
