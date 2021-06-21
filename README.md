@@ -10,7 +10,18 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 EJERCICIOS CAPÍTULO 5 
 
-1)	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+
+![image](https://user-images.githubusercontent.com/85126275/122826654-03ccee00-d2a9-11eb-8858-6e92b90f2f2a.png)
+
+2.  Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos. 
+
+![image](https://user-images.githubusercontent.com/85126275/122826757-23641680-d2a9-11eb-95b6-f804b2de67f1.png)
+![image](https://user-images.githubusercontent.com/85126275/122826776-2959f780-d2a9-11eb-833a-8f21fa5831c5.png)
+
+3.  Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.
+
+![image](https://user-images.githubusercontent.com/85126275/122827119-99687d80-d2a9-11eb-92b6-d4e1431c13ce.png)
 
 EJERCICIOS CAPÍTULO 6
 
