@@ -23,18 +23,20 @@ EJERCICIOS CAPÍTULO 5
 
 3.  Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.
 
-![image](https://user-images.githubusercontent.com/85126275/122827119-99687d80-d2a9-11eb-92b6-d4e1431c13ce.png)
+![image](https://user-images.githubusercontent.com/84789076/122835232-996e7a80-d2b5-11eb-8cab-a4e3962c128d.png)
+
 
 4.  El amperímetro de la figura 5-47 tiene autopolaridad. Determine sus lecturas,de la magnitud y el signo correctos.
 
-![image](https://user-images.githubusercontent.com/85126275/122827347-d765a180-d2a9-11eb-9e46-66ba6979b228.png)
+![image](https://user-images.githubusercontent.com/84789076/122835280-ab501d80-d2b5-11eb-9f3c-fb2d6af1f214.png)
+
 
 5-2 Ley de voltaje de Kirchhoff
 
 5.	Determine los voltajes desconocidos en las redes de la figura 5-48.
 
-![image](https://user-images.githubusercontent.com/85126275/122827446-f95f2400-d2a9-11eb-9257-9e3b7e02ac07.png)
-![image](https://user-images.githubusercontent.com/85126275/122827462-fd8b4180-d2a9-11eb-878b-85c62053a762.png)
+![image](https://user-images.githubusercontent.com/84789076/122835318-bdca5700-d2b5-11eb-8583-178a513c3e4f.png)
+
 
 6.	Determine los voltajes desconocidos en las redes de la figura 5-49.
 
