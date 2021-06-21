@@ -397,6 +397,10 @@ f.	Muestre que la potencia suministrada por la fuente de voltaje es igual a la s
 
 Pt = 180*7.73= 1391.4mW
 
+CAPITULO 6
+
+
+
 
 
 
