@@ -190,14 +190,60 @@ a.	Encuentre RT.
 
 ![image](https://user-images.githubusercontent.com/85126275/122831594-b30cc380-d2af-11eb-9807-8aced88e6e6d.png)
 
+a.	Encuentre RT.
+
+Rt = 1.8kΩ+3.3kΩ+10kΩ+8.2kΩ
+
+Rt = 23.3
+
 b.	Resuelva para hallar la corriente, I.
+
+I = 180/23.3
+
+I = 7.73V
+
+c.	Determine la caída de voltaje en cada resistor.
+
+V1 = 7.73*1.8 = 13.91
+
+V2 = 7.73*3.3 = 25.50
+
+V3 = 7.73*10 = 77.3
+
+V4 = 7.73*8.2 = 63.386
+
+d.	Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
+
+∑V=0
+
+180V-13.91V-25.5V-77.3V-63.386V=0
+
+0=0
+e.	Encuentre la potencia disipada por cada resistor.
+
+P1 = (7.73)^2*1.8= 107.55mw
+
+P2 = (7.73)^2*3.3= 197.18mw 
+
+P3 = (7.73)^2*10= 597.52mw 
+
+P4 = (7.73)^2*8.2= 489.97mw 
+
+f.	Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.
+
+Pt = 180*7.73= 1391.4mW
+
 
 25. Vea los circuitos de la figura 5-68:
 
 a.  Encuentre los valores de los resistores desconocidos.
+
 b.  Calcule el voltaje en cada resistor.
+
 c.  Determine la potencia disipada por cada resistor.
+
 Circuito 1
+
 a.- RT=R_1+3.5R_1+2R_2=R_1+3.5R_1+2(3.5R_1 )=11.5R_1
 V_R1=(R_1/(11.5R_1 ))(24V)
 I_R1*R_1=(R_1/(11.5R_1 ))(24V)
@@ -458,41 +504,16 @@ Efecto carga=(0.00036-0.000375)/0.000375*100=-4%
 
 EJERCICIOS CAPÍTULO 6
 
-1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
-
-![image](https://user-images.githubusercontent.com/85126275/122826654-03ccee00-d2a9-11eb-8858-6e92b90f2f2a.png)
-
-2.  Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos. 
-
-![image](https://user-images.githubusercontent.com/85126275/122826757-23641680-d2a9-11eb-95b6-f804b2de67f1.png)
-![image](https://user-images.githubusercontent.com/85126275/122826776-2959f780-d2a9-11eb-833a-8f21fa5831c5.png)
-
-3.  Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.
-
-![image](https://user-images.githubusercontent.com/85126275/122827119-99687d80-d2a9-11eb-92b6-d4e1431c13ce.png)
-1)	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
-
-EJERCICIOS CAPÍTULO 6
-
 6-5 Regla del divisor de corriente
 
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
 
 
-<img src="CAP6/29.1.PNG" >
 
 31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
 
 
-<img src="CAP6/FIGURA%206-73.PNG" >
-
-<img src="CAP6/31.PNG" >
-
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
-
-<img src="CAP6/FIGURA%206-75.PNG" >
-
-<img src="CAP6/33.PNG" >
 
 35. Vea el circuito de la figura 6-77: 
 a. Determine la resistencia equivalente RT, del circuito. 
@@ -500,9 +521,6 @@ b. Encuentre la corriente I.
 c. Use la regla del divisor de corriente para determinar la corriente en cada resistor. 
 d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
-<img src="CAP6/FIGURA%206-77.PNG" >
-
-<img src="CAP6/35.PNG" >
 
 37. Vea el circuito de la figura 6-79. 
 a. Encuentre la resistencia total RT y la corriente a través de la fuente de voltaje. 
@@ -510,18 +528,14 @@ b. Encuentre todas las corrientes desconocidas en el circuito.
 c. Verifique la ley de corriente de Kirchhoff en el nodo a. 
 d. Determine la potencia disipada por cada resistor. Verifique que la potencia total disipada por los resistores es igual a la potencia suministrada por la fuente de voltaje.
 
-<img src="CAP6/FIGURA%206-79.PNG" >
 
-<img src="CAP6/37.PNG" >
 
 39. Vea el circuito de la figura 6-81: 
 a. Calcule la corriente a través de cada resistor en el circuito. 
 b. Determine la corriente total suministrada por la fuente de voltaje. 
 c. Encuentre la potencia disipada por cada resistor.
 
-<img src="CAP6/FIGURA%206-81.PNG" >
 
-<img src="CAP6/39.PNG" >
 
 41. En el circuito de la figura 6-83
 a.	Determine los valores de todos los resistores.
@@ -529,50 +543,34 @@ b.	Calcule las corrientes a través de R1, R2 y R4.
 c.	Encuentre las corrientes I1 e I2.
 d.	Encuentre la potencia disipada por los resistores R2, R3 y R4.
 
-<img src="CAP6/FIGURA%206-83.PNG" >
 
-<img src="CAP6/41.1.PNG" >
 
-<img src="CAP6/41.2.PNG" >
 
 43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
 
-<img src="CAP6/FIGURA%206-85.PNG" >
-
-<img src="CAP6/43.PNG" >
 
 
 6.7 Efectos de carga en el voltímetro
-
 45. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje que se indica en el circuito de la figura 6-86. 
 a. Determine la lectura de voltaje que indicará el medidor. 
 b. Calcule el efecto.
 
 
 
-<img src="CAP6/45.PNG" >
 
 
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab 1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 kΩ?
 
 
-<img src="CAP6/47.PNG" >
 
 6-8 Análisis por computadora
 49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79
 
 
-49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79
 
-<img src="CAP6/49.PNG" >
 
 51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1 M, como se muestra en la figura 6-86.
 
-
-
-
-
-<img src="CAP6/FIGURA%206-73.PNG" >
 
 
 
