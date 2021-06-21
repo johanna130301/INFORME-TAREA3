@@ -40,7 +40,8 @@ EJERCICIOS CAPÍTULO 5
 
 6.	Determine los voltajes desconocidos en las redes de la figura 5-49.
 
-![image](https://user-images.githubusercontent.com/85126275/122827962-adf94580-d2aa-11eb-8f60-72accb788bab.png)
+![image](https://user-images.githubusercontent.com/84789076/122835423-e94d4180-d2b5-11eb-8bdd-22e0a7841e54.png)
+
 
 7.	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
