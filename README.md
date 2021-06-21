@@ -14,17 +14,17 @@ EJERCICIOS CAPÍTULO 5
 
    <img src="cap5/1.JPG" width=400 >
     
-    a.	V=IxR
+a.	V=IxR
     
-    V= 3Ax10Ω
+V= 3Ax10Ω
     
-    V= 30v
+V= 30v
     
-    b.	V=IxR
+b.	V=IxR
     
-    V=-6Ax15Ω
+V=-6Ax15Ω
     
-    V= -90v
+V= -90v
        
 2)	Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
