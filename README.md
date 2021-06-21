@@ -98,11 +98,11 @@ b. Calcule el efecto.
 
 49. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79
 
-<img src="CAP6/49.PNG" >
+<img src="CAP6/49.png" >
 
 51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1 M, como se muestra en la figura 6-86.
 
-<img src="CAP6/FIGURA%206-73.PNG" >
+<img src="CAP6/51.PNG" >
 
 
 ## 4. VIDEO
