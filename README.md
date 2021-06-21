@@ -11,6 +11,6 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 ## 4. VIDEO
 
 
-## 5. CONCLUCIONES 
+## 5. CONCLUSIONES 
 
 ## 6. BIBLIOGRAFÍA
