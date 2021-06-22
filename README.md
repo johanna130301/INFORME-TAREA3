@@ -691,4 +691,8 @@ b. Si el valor de R3 se incrementa por arriba del valor que se encontró en el i
 
 Se concluye que los circuitos en serie son totalmente distintos a los circuitos en paralelo, ya que en los circuitos en serie existe una intensidad constante en cada componente y el voltaje se divide entre ellos mientras que en los circuitos en paralelo la intensidad de corriente es la que se divide y el voltaje es el que se mantiene constante en cada componente.
 
+Como conclusion podemos decir que un circuito en serie se denota por matener su intensidad de corriente constante, por su variacion de voltaje y finalmente las resistencias totales siempre serán las mismas que conforman el circuito.
+
+Como conclusión podemos decir que un circuito en serie se denota por matener su intensidad de corriente constante, por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que conforman el circuito.
+
 ## 6. BIBLIOGRAFÍA
