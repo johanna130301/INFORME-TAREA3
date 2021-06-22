@@ -612,6 +612,77 @@ b. Calcule el efecto.
 
 <img src="CAP6/51.PNG" >
 
+**EJERCICIOS CAPÍTULO 6 - Pares**
+
+30.  Repita el problema 29 para las redes de la figura 6-72
+
+![image](https://user-images.githubusercontent.com/75383758/122854139-dd26ab80-d2d8-11eb-8911-db736a9fe414.png)
+
+Figura a
+
+![image](https://user-images.githubusercontent.com/75383758/122854266-0fd0a400-d2d9-11eb-92d1-d2413a45e9e2.png)
+
+Figura b
+
+![image](https://user-images.githubusercontent.com/75383758/122854282-165f1b80-d2d9-11eb-8e8f-5a26ffad83d4.png)
+
+32. Repita el problema 31 para las redes de la figura 6-74
+
+![image](https://user-images.githubusercontent.com/75383758/122854310-237c0a80-d2d9-11eb-84a3-a31869db3e7b.png)
+
+Figura a
+
+![image](https://user-images.githubusercontent.com/75383758/122854325-2aa31880-d2d9-11eb-9c95-25556fee82e6.png)
+
+Figura b
+
+![image](https://user-images.githubusercontent.com/75383758/122854354-3a226180-d2d9-11eb-9013-08531911e3b8.png)
+
+34. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/75383758/122854377-43abc980-d2d9-11eb-80b3-9c2303660535.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122854390-49091400-d2d9-11eb-96a1-e0684ba21b88.png)
+
+36. Repita el problema 35 para el circuito de la ﬁgura 6-78.
+
+![image](https://user-images.githubusercontent.com/75383758/122854520-748bfe80-d2d9-11eb-9186-d5f45ef3c534.png)
+
+38. Repita el problema 37 para el circuito de la figura 6-80 
+
+![image](https://user-images.githubusercontent.com/75383758/122854552-7eadfd00-d2d9-11eb-8e69-ce31f35538fb.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122854757-d187b480-d2d9-11eb-8273-2a01480b3572.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122854766-d5b3d200-d2d9-11eb-9a20-e289cd074cd0.png)
+
+40. Vea el circuito de la figura 6-82:
+
+a.  Resuelva para determinar las corrientes indicadas.
+b.  Encuentre la potencia disipada por cada resistor.
+c.  Verifique que la potencia suministrada por la fuente de voltaje es igual a la
+potencia total disipada por los resistores.
+
+Resolver en Multisim 
+
+42. Un circuito está compuesto por cuatro resistores conectados en paralelo y a una fuente de 20 V, como se muestra en la figura 6-84. Determine la mínima especificación de potencia de cada resistor, si están disponibles con las siguientes especificaciones de potencia: W, 1 W, y 2 W.
+
+![image](https://user-images.githubusercontent.com/75383758/122854889-01cf5300-d2da-11eb-93f7-6e0d763c8307.png)
+
+44. a. Para el circuito de la ﬁgura 6-85, calcule el valor de R3 que dará como resultado una corriente en el circuito de exactamente IT = 15 A. 
+b. Si el valor de R3 se incrementa por arriba del valor que se encontró en el inciso a. ¿qué pasará con la corriente del circuito, IT?
+
+![image](https://user-images.githubusercontent.com/75383758/122855016-2dead400-d2da-11eb-9ce9-738d0c4e80f6.png)
+
+46. Repita el problema si el resistor de 500kohm de la figura 6-86 se reemplaza con uno de 2Mohm
+
+![image](https://user-images.githubusercontent.com/75383758/122855051-3d6a1d00-d2da-11eb-8ec9-656f95160732.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122855157-6ab6cb00-d2da-11eb-8faa-575e14783b1b.png)
+
+48. ¿Cuál será la lectura si se utiliza un medidor digital con una resistencia interna de 10 M en lugar del medidor analógico del problema 47?
+
+
 
 ## 4. VIDEO
 
