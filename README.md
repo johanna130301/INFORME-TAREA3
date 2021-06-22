@@ -10,6 +10,12 @@ Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas
 
 ## 2. MARCO TEÓRICO 
 
+![1](https://user-images.githubusercontent.com/85126275/122864621-92159400-d2ea-11eb-823f-fd4b8e971d06.jpg)
+
+![2](https://user-images.githubusercontent.com/85126275/122864628-9477ee00-d2ea-11eb-9c81-531dcd13c4b5.jpg)
+
+![3](https://user-images.githubusercontent.com/85126275/122864634-980b7500-d2ea-11eb-9dab-f1a31cd29138.jpg)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -696,3 +702,8 @@ Como conclusion podemos decir que un circuito en serie se denota por matener su 
 Como conclusión podemos decir que un circuito en serie se denota por matener su intensidad de corriente constante, por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que conforman el circuito.
 
 ## 6. BIBLIOGRAFÍA
+
+Redicces.org.sv. 2021. [online] Available at: <http://www.redicces.org.sv/jspui/bitstream/10972/949/1/Reglas%20de%20kirchhoff.pdf> [Accessed 20 June 2021]. 
+
+2021. [online] Available at: <https://www.electricasas.com/leyes-de-kirchhoff-primera-y-segunda-ley-concepto-formulas-y-ejemplos/> [Accessed 20 June 2021].
+2022. 
