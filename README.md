@@ -4,6 +4,10 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 1. OBJETIVOS 
 
+Entender las bases y conceptos sobre los circuitos en serie y los circuitos en paralelo con el fin de tener claro como funcionan estos tipos de circuitos.
+
+Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas en un circuito, identificar y calcular los efectos de carga de un voltimetro conectado a un circuito.
+
 ## 2. MARCO TEÓRICO 
 
 
