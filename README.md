@@ -13,7 +13,7 @@ Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-**EJERCICIOS CAPÍTULO 5 **
+**EJERCICIOS CAPÍTULO 5**
 
 1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
