@@ -13,9 +13,7 @@ Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-EJERCICIOS CAPÍTULO 5 
-
-EJERCICIOS CAPÍTULO 5 
+**EJERCICIOS CAPÍTULO 5 **
 
 1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
@@ -411,7 +409,118 @@ EJERCICIOS CAPÍTULO 5
 
 ![image](https://user-images.githubusercontent.com/75383758/122849701-a1d4ae80-d2d1-11eb-9bbe-aef1798276df.png)
 
-EJERCICIOS CAPÍTULO 6
+**EJERCICIOS CAPÍTULO 6 - Impares**
+
+1.	Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie.
+
+![image](https://user-images.githubusercontent.com/75383758/122850372-b796a380-d2d2-11eb-8bb1-6952b5dd8194.png)
+
+	a)	A, B, D y E están en serie – C y F en paralelo
+	b)	B, C, y D están en paralelo 
+	c)	A, B, D y F están en paralelo – C y E están en serie
+	d)	B, C, A, D paralelo 
+	
+3.	Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
+
+![image](https://user-images.githubusercontent.com/75383758/122850415-cb420a00-d2d2-11eb-9138-81984125137b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850434-d301ae80-d2d2-11eb-92b7-c26b465bdba3.png)
+
+5.	Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48
+
+![image](https://user-images.githubusercontent.com/75383758/122850455-da28bc80-d2d2-11eb-85b4-6642c0ae269b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850503-f0367d00-d2d2-11eb-908b-6b99defec88d.png)
+
+7. Considere la red de la figura 6-50. 
+
+![image](https://user-images.githubusercontent.com/75383758/122850518-f7f62180-d2d2-11eb-87f6-77d607c518a8.png)
+
+a. Calcule las corrientes I1, I2, I3 e I4. 
+b. Determine el valor de la resistencia R3
+
+![image](https://user-images.githubusercontent.com/75383758/122850538-02b0b680-d2d3-11eb-8431-bdf1ab0875a2.png)
+
+9. Vea la red de la figura 6-52: 
+
+![image](https://user-images.githubusercontent.com/75383758/122850573-10663c00-d2d3-11eb-9eb4-017b3ed362a7.png)
+
+a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4. 
+b. Calcule el voltaje V, en la red. 
+c. Determine los valores de los resistores desconocidos, R1, R3 y R4
+
+![image](https://user-images.githubusercontent.com/75383758/122850589-165c1d00-d2d3-11eb-8011-8a9fd2c2a8eb.png)
+
+11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54
+
+![image](https://user-images.githubusercontent.com/75383758/122850605-1cea9480-d2d3-11eb-865c-4c0ec609e9d0.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850617-2247df00-d2d3-11eb-9e41-b565a8ebe898.png)
+
+13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica 
+
+![image](https://user-images.githubusercontent.com/75383758/122850624-2a078380-d2d3-11eb-9d58-81ef1edc97e5.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850637-2ffd6480-d2d3-11eb-8479-237a10bd7547.png)
+
+15. Vea la red de la figura 6-58: 
+
+![image](https://user-images.githubusercontent.com/75383758/122850644-368bdc00-d2d3-11eb-8b69-373445f9a2ca.png)
+
+  a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 .
+  
+  	a) RT=200 Ω
+	
+	b) R1=1250 Ω
+	
+	c) R2=5 kΩ
+	
+	d) R3=250 Ω
+	
+17. Vea la red de la figura 6-60:
+
+![image](https://user-images.githubusercontent.com/75383758/122850727-5de2a900-d2d3-11eb-9825-453359b12575.png)
+
+  a. Encuentre los voltajes a través de R1 y R2. 
+  b. Determine la corriente I2
+
+  ![image](https://user-images.githubusercontent.com/75383758/122850765-6c30c500-d2d3-11eb-962c-9952b5a945b2.png)
+
+19. Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/75383758/122850781-73f06980-d2d3-11eb-888f-cf8adca705e2.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850798-781c8700-d2d3-11eb-89f3-d20256c6f204.png)
+
+21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.
+
+![image](https://user-images.githubusercontent.com/75383758/122850820-7fdc2b80-d2d3-11eb-9871-3cf68c5ba03a.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122850835-85d20c80-d2d3-11eb-8b51-bd38dc1c6228.png)
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/75383758/122850856-8cf91a80-d2d3-11eb-85d5-a37d15a40611.png)
+
+	a)	R= 12.5 kΩ
+	
+	b)	R=0
+	
+	c)	R=75 Ω
+
+25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la red de la figura 6-68.
+
+![image](https://user-images.githubusercontent.com/75383758/122850905-a39f7180-d2d3-11eb-96f6-657b117453ab.png)
+
+	R = 15Ω
+	
+27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería.
+
+![image](https://user-images.githubusercontent.com/75383758/122850933-aef29d00-d2d3-11eb-89d6-9718618b70cd.png)
+
+	a) I=0.2 A
+	
+	b) I2=0.1 A=I2  
 
 6-5 Regla del divisor de corriente
 
