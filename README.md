@@ -692,6 +692,7 @@ b. Si el valor de R3 se incrementa por arriba del valor que se encontró en el i
 
 ## 4. VIDEO
 
+https://youtu.be/hc0p7BT9Rcc
 
 ## 5. CONCLUSIONES 
 
