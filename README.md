@@ -15,6 +15,8 @@ Aplicar la ley de corriente de Kirchoff para conocer las corrientes desconocidas
 
 EJERCICIOS CAPÍTULO 5 
 
+EJERCICIOS CAPÍTULO 5 
+
 1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
 
 ![image](https://user-images.githubusercontent.com/85126275/122826654-03ccee00-d2a9-11eb-8858-6e92b90f2f2a.png)
@@ -45,15 +47,135 @@ EJERCICIOS CAPÍTULO 5
 
 7.	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
-	@@ -163,7 +160,7 @@ EJERCICIOS CAPÍTULO 5
+![image](https://user-images.githubusercontent.com/75383758/122847332-1822e200-d2cd-11eb-8453-4506713fcbcb.png)
 
+5-3  Resistores en serie
+
+8.	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-51.
+
+![image](https://user-images.githubusercontent.com/75383758/122848131-8caa5080-d2ce-11eb-9e82-5b19b64f7d00.png)
+
+9.	Determine la resistencia total de las redes que se muestran en la figura 5-52.
+
+![image](https://user-images.githubusercontent.com/75383758/122848183-a6e42e80-d2ce-11eb-9ad3-e9af9f8d9d49.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122848204-b1062d00-d2ce-11eb-9deb-09667b9d5686.png)
+
+10.	Determine las resistencias desconocidas en cada una de las redes que se muestran en la figura 5-53.
+
+![image](https://user-images.githubusercontent.com/75383758/122848337-f4609b80-d2ce-11eb-8767-c9ae322bb11b.png)
+
+11.	Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
+
+![image](https://user-images.githubusercontent.com/75383758/122848387-0a6e5c00-d2cf-11eb-96bb-a3798e1da65c.png)
+
+12.	Para los circuitos de la figura 5-55 tienen resistencia total, RT, como se muestra. Para cada circuito encuentre lo siguiente:
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848444-240fa380-d2cf-11eb-8ae1-dcc51999ed01.png)
+
+  a.	La magnitud de la corriente en el circuito.
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848468-2eca3880-d2cf-11eb-9ef2-24b6c4d1e724.png)
+
+  b.	El total de potencia suministrada por la fuente de voltaje.
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848479-3853a080-d2cf-11eb-9672-c3d109e1778d.png)
+
+  d.	El valor de la resistencia desconocida, R.
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848498-41dd0880-d2cf-11eb-8f3c-b963983803ea.png)
+
+  e.	La caída de voltaje en cada resistor.
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848519-4b667080-d2cf-11eb-9177-c4d70c6320c3.png)
+
+  f.	La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.
+
+  ![image](https://user-images.githubusercontent.com/75383758/122848533-54efd880-d2cf-11eb-8948-9d9839bf7497.png)
+  
+13.	Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/75383758/122848609-8668a400-d2cf-11eb-8879-ca01ba839ca7.png)
+
+  a.	La corriente del circuito.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848640-96808380-d2cf-11eb-95f3-968873751978.png)
+  
+  b.	La resistencia total.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848658-a304dc00-d2cf-11eb-803d-7874d5b2e992.png)
+  
+  c.	El valor de la resistencia desconocida, R.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848673-ad26da80-d2cf-11eb-8c00-c3f63d004ae6.png)
+  
+  d.	La caída de voltaje en todos los resistores en el circuito.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848702-ba43c980-d2cf-11eb-8055-d3bc269a0f71.png)
+  
+  e.	La potencia disipada por todos los resistores.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848776-d3e51100-d2cf-11eb-88e1-14ad048aad8a.png)
+  
+14.	El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/75383758/122848892-0989fa00-d2d0-11eb-86b2-56289902820e.png)
+
+  a.	La resistencia total en el circuito.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848912-160e5280-d2d0-11eb-94dd-bab3cb0e773d.png)
+  
+  b.	El valor de la resistencia desconocida, R2.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848931-20305100-d2d0-11eb-821b-8322386adeee.png)
+  
+  c.	La caída de voltaje en cada resistor en el circuito.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848955-2aeae600-d2d0-11eb-9949-ca4362381495.png)
+  
+  d.	La potencia disipada por cada uno de los resistores.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122848975-3a6a2f00-d2d0-11eb-8ebf-5a1b82611fdb.png)
+  
+15.	Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/75383758/122848989-4655f100-d2d0-11eb-9e9f-6425216086cc.png)
+
+  a.	La corriente, I.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122849011-4f46c280-d2d0-11eb-898a-a42dddc2cf1e.png)
+  
+  b.	La caída de voltaje en cada resistor en el circuito.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122849041-5bcb1b00-d2d0-11eb-9253-93ff9da20e06.png)
+  
+  c.	El voltaje en las terminales abiertas a y b.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122849059-67b6dd00-d2d0-11eb-8e00-ecd73476eb7a.png)
+  
+16.	Vea el circuito de la figura 5-59:
+
+![image](https://user-images.githubusercontent.com/75383758/122849081-73a29f00-d2d0-11eb-8563-7cafd262250f.png)
+
+  a.	Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122849109-8026f780-d2d0-11eb-8d79-ae47ff74fbe9.png)
+  
   b.	Determine la magnitud de la corriente, I.
 
     I = 0.02 A = 20 mA
 
   c.	Encuentre la resistencia desconocida, R1.
 
-	@@ -179,7 +176,7 @@ EJERCICIOS CAPÍTULO 5
+  ![image](https://user-images.githubusercontent.com/75383758/122849148-93d25e00-d2d0-11eb-93b8-edacf914a1a5.png)
+	
+17.	Repita el problema 16 para el circuito de la figura 5-60.
+
+![image](https://user-images.githubusercontent.com/75383758/122849188-a351a700-d2d0-11eb-998d-6111a6bee19d.png)
+
+  a.	Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.
+  
+  ![image](https://user-images.githubusercontent.com/75383758/122849217-b4021d00-d2d0-11eb-9f71-89d75a663f69.png)
 
   b.	Determine la magnitud de la corriente, I.
 
@@ -61,7 +183,9 @@ EJERCICIOS CAPÍTULO 5
 
   c.	Encuentre la resistencia desconocida, R1.
 
-	@@ -189,457 +186,214 @@ EJERCICIOS CAPÍTULO 5
+  ![image](https://user-images.githubusercontent.com/75383758/122849241-bfeddf00-d2d0-11eb-8236-8bd758f32956.png)
+	
+18.	Vea el circuito de la figura 5-61:
 
 ![image](https://user-images.githubusercontent.com/85126275/122831446-848ee880-d2af-11eb-85a9-967209acf7b1.png)
 
@@ -270,6 +394,22 @@ EJERCICIOS CAPÍTULO 5
 33.	Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 ohm, el voltaje medido entre las terminales de la batería cae a 6.8 V. a. Determine la resistencia interna de la batería b. Si la carga de 100ohm fuera reemplazada con una de 200ohm, ¿qué voltaje se mediría en las terminales de la batería?
 
 ![image](https://user-images.githubusercontent.com/75383758/122838385-9aa2a600-d2bb-11eb-9d06-52cdf7ed10dd.png)
+
+34.	La fuente de voltaje que se muestra en la figura 5-73 tiene un voltaje a circuito abierto de 24 V. Cuando se conecta una carga de 10 ohm en las terminales, el voltaje medido con un voltímetro cae a 22.8 V. a. Determine la resistencia interna de la fuente de voltaje. b. Si la fuente sólo tuviera la mitad de la resistencia determinada en (a), ¿qué voltaje se mediría en las terminales si se conectara un resistor de 10 ohm?
+
+![image](https://user-images.githubusercontent.com/75383758/122849356-f4fa3180-d2d0-11eb-87f2-ebaa75d620fc.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122849502-42769e80-d2d1-11eb-8f5a-568e95e0a45a.png)
+
+35.	Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 ohm se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.
+
+![image](https://user-images.githubusercontent.com/75383758/122849531-4dc9ca00-d2d1-11eb-8ed0-3ccd56182f8f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/122849607-72be3d00-d2d1-11eb-809e-74abb2374465.png)
+
+36.	Repita el problema 35 si el amperímetro tiene una resistencia de 10 ohm.
+
+![image](https://user-images.githubusercontent.com/75383758/122849701-a1d4ae80-d2d1-11eb-9bbe-aef1798276df.png)
 
 EJERCICIOS CAPÍTULO 6
 
